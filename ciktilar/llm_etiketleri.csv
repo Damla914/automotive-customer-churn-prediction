@@ -1,0 +1,6 @@
+﻿geri_bildirim_id,metin,duygu,konular,hata
+9503,Kampanya mesajı geldi ama şubede geçerli değilmiş.,HATA,,Yanıtta JSON nesnesi bulunamadı.
+9250,Bir yıldız bile fazla.,HATA,,"503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+9562,"Randevu almak kolaydı, işlem hızlı bitti. Memnun kaldım.",HATA,,Yanıtta JSON nesnesi bulunamadı.
+9219,"Fatura tutarı verilen tekliften yüksek çıktı, önceden bilgilendirilmedim.",HATA,,"503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+9543,"Rakip markanın servisinde aynı işlem daha ucuzdu, orayı tercih edeceğim.",HATA,,"503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"

@@ -1,0 +1,4 @@
+,ROC_AUC,PR_AUC,recall@top10%,lift@top10%
+baseline,0.499,0.165,0.073,0.728
+logreg,0.997,0.99,0.605,6.04
+gbm,0.998,0.994,0.605,6.04

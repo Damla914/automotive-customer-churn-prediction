@@ -1,0 +1,41 @@
+﻿geri_bildirim_id;metin;duygu;konular
+9170;Randevu saatinde gittim ama iki saat bekledim, kimse bilgi vermedi.;Olumsuz;randevu
+9144;Yedek parça iki hafta bekledi, bu süre boyunca aracım serviste kaldı.;Olumsuz;"süre;yedek_parça"
+9051;Yedek araç verilmesi büyük kolaylık oldu.;Olumlu;yedek_araç
+9033;Arıza giderilmemiş, aynı ses devam ediyor. Tekrar gitmek zorunda kaldım.;Olumsuz;iş_kalitesi
+9035;İkinci kez geliyorum, yine sorunsuz. Ekibe teşekkürler.;Olumlu;iş_kalitesi
+9562;Randevu almak kolaydı, işlem hızlı bitti. Memnun kaldım.;Olumlu;randevu
+9358;Yedek araç verilmesi büyük kolaylık oldu.;Olumlu;yedek_araç
+9105;İşçilik kalitesi iyiydi ama fiyatlandırma gerçekten pahalı.;Karışık;"personel;iş_kalitesi"
+9058;Personel çok nazikti, sadece süre biraz uzun sürdü.;Olumlu;"personel;süre"
+9043;Bir yıldız bile fazla.;Olumsuz;diğer
+9255;Beklediğimden erken bitti, aradılar haber verdiler.;Olumlu;süre
+9234;Mükemmel değildi ama beklentimin altında da kalmadı.;Karışık;diğer
+9416;Fena değildi.;Karışık;diğer
+9271;Randevu almak kolaydı, işlem hızlı bitti. Memnun kaldım.;Olumlu;"randevu;süre"
+9205;Beklediğimden erken bitti, aradılar haber verdiler.;Olumlu;süre
+9082;Danışman bey her adımı tek tek anlattı, fiyat konusunda da şeffaftı.;Olumlu;personel
+9610;İkinci kez geliyorum, yine sorunsuz. Ekibe teşekkürler.;Olumlu;diğer
+9597;Fiyat çok yüksek geldi, aynı işi özel serviste yarı fiyata yaptırabilirdim.;Olumsuz;fiyat
+9614;Mükemmel değildi ama beklentimin altında da kalmadı.;Karışık;diğer
+9383;Telefonla kimseye ulaşamıyorum, çağrı merkezi sürekli meşgul.;Olumsuz;personel
+9509;Yedek parça iki hafta bekledi, bu süre boyunca aracım serviste kaldı.;Olumuz;"yedek_parça;süre"
+9348;Ödeme sırasında POS çalışmadı, nakit aramak zorunda kaldım.;Olumsuz;diğer
+9076;Danışman bey her adımı tek tek anlattı, fiyat konusunda da şeffaftı.;Olumlu;personel
+9221;Aracımla ilgili değil ama web sitenizden randevu alınmıyor, sürekli hata veriyor.;Olumsuz;diğer
+9071;Harika bir deneyimdi, sadece üç hafta bekledim.;Olumsuz;süre
+9522;Kampanya mesajı geldi ama şubede geçerli değilmiş.;Alakasız;diğer
+9343;Kampanya mesajı geldi ama şubede geçerli değilmiş.;Alakasız;diğer
+9632;Aracı teslim alırken içi temizlenmişti, güzel bir detay.;Olumlu;temizlik
+9418;İkinci kez geliyorum, yine sorunsuz. Ekibe teşekkürler.;Olumlu;diğer
+9404;Telefonla kimseye ulaşamıyorum, çağrı merkezi sürekli meşgul.;Olumsuz;personel
+9462;İkinci kez geliyorum, yine sorunsuz. Ekibe teşekkürler.;Olumlu;diğer
+9233;İyi.;Olumlu;diğer
+9202;Hiç de memnun kalmadım denemez, işlerini biliyorlar.;Olumlu;diğer
+9216;Danışman bey her adımı tek tek anlattı, fiyat konusunda da şeffaftı.;Olumlu;personel
+9417;Aracımla ilgili değil ama web sitenizden randevu alınmıyor, sürekli hata veriyor.;Olumsuz;diğer
+9609;Ödeme sırasında POS çalışmadı, nakit aramak zorunda kaldım.;Olumsuz;diğer
+9341;Kampanya mesajı geldi ama şubede geçerli değilmiş.;Alakasız;diğer
+9078;Fatura tutarı verilen tekliften yüksek çıktı, önceden bilgilendirilmedim.;Olumsuz;"fiyat;personel"
+9565;Hiç de memnun kalmadım denemez, işlerini biliyorlar.;Olumlu;diğer
+9599;Kötü diyemem ama bir daha gelir miyim bilmiyorum.;Karışık;diğer
